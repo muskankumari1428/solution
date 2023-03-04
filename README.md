@@ -13,7 +13,7 @@ following are the urls and screenshot of the following
 http://127.0.0.1:5000/hello?language=Hindi
 ![App Screenshot]
 
-(https://github.com/muskankumari1428/solution/blob/main/screenshots/english.png)
+([https://github.com/muskankumari1428/solution/blob/main/screenshots/engh.png](https://github.com/muskankumari1428/solution/blob/main/screenshots/english.png?raw=true))
 
 http://127.0.0.1:5000/hello?language=english
 ![App Screenshot]
