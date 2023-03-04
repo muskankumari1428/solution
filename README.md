@@ -13,5 +13,5 @@ following are the urls and screenshot of the following
 http://127.0.0.1:5000/hello?language=Hindi
 
 
-![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![image](https://github.com/muskankumari1428/solution/blob/main/screenshots/english.png)
 
